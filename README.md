@@ -15,6 +15,8 @@ To determine which products Amazon can recommend to users, I analyzed purchasing
 ## 4. Products with the Most Reviews:
 I performed an analysis to determine which products had the highest number of customer reviews. These products can be considered as the most popular or most engaging, potentially reflecting higher levels of customer satisfaction or controversy. This analysis could inform decisions around inventory and product promotions.
 
+![Image](https://github.com/user-attachments/assets/b54381db-8949-4539-8433-90589db3c25f)
+
 ## 5. Behavior of Frequent vs. Non-Frequent Viewers: 
 A key part of the project was comparing the behavior of frequent viewers versus non-frequent viewers. By examining how often users interact with products and the type of products they view, I found significant behavioral differences. Frequent viewers tended to engage more with niche products, while non-frequent viewers gravitated toward mainstream, popular items.
 
