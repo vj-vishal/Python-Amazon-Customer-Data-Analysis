@@ -27,6 +27,8 @@ A key part of the project was comparing the behavior of frequent viewers versus 
 ## 6. Verbosity of Frequent Users: 
 An interesting aspect of the analysis was determining whether frequent users tend to be more verbose in their reviews. The data revealed that frequent users, who engage regularly with Amazon, often write longer, more detailed reviews. This suggests that more active users are more likely to share in-depth feedback about their experiences with products, providing valuable insights for both customers and businesses.
 
+![Image](https://github.com/user-attachments/assets/d6dfe086-1524-428a-9849-84fab1295151)
+
 ## 7. Sentiment Analysis of Reviews: 
 To gain insights into customer satisfaction, I conducted sentiment analysis on product reviews. The results showed a mix of positive, negative, and neutral sentiments, which can be used to understand customer feelings toward specific products. By analyzing these sentiments, businesses can gauge customer reactions, identify areas of improvement, and tailor their marketing strategies.
 
