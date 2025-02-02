@@ -18,7 +18,11 @@ I performed an analysis to determine which products had the highest number of cu
 ![Image](https://github.com/user-attachments/assets/b54381db-8949-4539-8433-90589db3c25f)
 
 ## 5. Behavior of Frequent vs. Non-Frequent Viewers: 
-A key part of the project was comparing the behavior of frequent viewers versus non-frequent viewers. By examining how often users interact with products and the type of products they view, I found significant behavioral differences. Frequent viewers tended to engage more with niche products, while non-frequent viewers gravitated toward mainstream, popular items.
+A key part of the project was comparing the behavior of frequent viewers versus non-frequent viewers. By examining how often users interact with products and the type of products they view, I found significant behavioral differences. Frequent viewers tended to give less 5-star reviews and less 1-star review, while non-frequent viewers give more extreme ratings.
+
+![Image](https://github.com/user-attachments/assets/619c76bd-a188-4004-a69c-f3a1aff26ead)
+
+![Image](https://github.com/user-attachments/assets/626448cf-78ac-4f9e-9123-bd6827789d2e)
 
 ## 6. Verbosity of Frequent Users: 
 An interesting aspect of the analysis was determining whether frequent users tend to be more verbose in their reviews. The data revealed that frequent users, who engage regularly with Amazon, often write longer, more detailed reviews. This suggests that more active users are more likely to share in-depth feedback about their experiences with products, providing valuable insights for both customers and businesses.
