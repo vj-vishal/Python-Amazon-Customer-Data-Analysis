@@ -10,6 +10,8 @@ One of the first steps was to check for duplicate rows in the dataset. This was 
 ## 3. User-Based Product Recommendations: 
 To determine which products Amazon can recommend to users, I analyzed purchasing and review behaviors. By identifying patterns in product preferences among users, I was able to provide insights into which products are more likely to appeal to certain user demographics. This is valuable for improving personalized recommendation systems.
 
+![Image](https://github.com/user-attachments/assets/c44defee-af10-450d-8d8a-64d7db91df06)
+
 ## 4. Products with the Most Reviews:
 I performed an analysis to determine which products had the highest number of customer reviews. These products can be considered as the most popular or most engaging, potentially reflecting higher levels of customer satisfaction or controversy. This analysis could inform decisions around inventory and product promotions.
 
